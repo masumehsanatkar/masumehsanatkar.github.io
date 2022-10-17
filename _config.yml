@@ -137,8 +137,8 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Calendly"
-      icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/pourrang_atashi"
+      icon: 
+      url: 
     - label: "Telegram"
       icon: "fab fa-telegram"
       url: "http://t.me/msume"
@@ -166,7 +166,7 @@ footer:
       # url:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/pourrang_atashi"
+      url: 
 
 
 # Reading Files
