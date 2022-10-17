@@ -13,11 +13,11 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "plum" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "" 
-title                    : "masumeh sanatkar"
+title                    : "Masumeh Sanatkar"
 title_separator          : "-"
 name                     : " masumeh " 
 description              : "Welcome"
@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "masumeh sanatkar"
+  name             : "Masumeh Sanatkar"
   avatar           : ""
-  bio              : "im a student ^_^"
+  bio              : "Im a student ^_^"
   location         : "تهران"
   email            : masumeh_sanatkar@comp.iust.ac.ir
   twitter: 
