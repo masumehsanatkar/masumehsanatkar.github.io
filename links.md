@@ -9,8 +9,7 @@ comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
+* [Favorite Football team](http://realmadrid.com)
+* [My home city](https://en.wikipedia.org/wiki/Tehran)
 * [My university](http://iust.ac.ir)
 
