@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Masumeh Sanatkar"
-  avatar           : ""
+  avatar           : "/assets/images/cat.jpg"
   bio              : "Im a student"
   location         : "تهران"
   email            : masumeh_sanatkar@comp.iust.ac.ir
